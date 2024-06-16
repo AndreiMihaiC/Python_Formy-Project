@@ -2,7 +2,7 @@ import time
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from assertpy import soft_assertions, assert_that
+
 """------------------------------------------------------------------------------------------------------------------"""
 
 link = 'https://formy-project.herokuapp.com/autocomplete'
